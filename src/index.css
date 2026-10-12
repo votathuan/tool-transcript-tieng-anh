@@ -1,0 +1,3 @@
+/* Forward to core design system */
+@import './styles/index.css';
+@import './styles/components.css';
